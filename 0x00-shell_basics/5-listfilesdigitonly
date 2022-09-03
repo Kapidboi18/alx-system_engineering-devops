@@ -1,0 +1,19 @@
+#!/bin/basg_me_home
+chmod +x 2-bring_me_home
+
+git add .
+git commit -m finished task 2
+git push
+
+echo "#!/bin/bash" > 3-listfiles
+echo ls -l >> 3-listfiles
+chmod +x 3-listfiles
+
+git add .
+git commit -m finished task 3
+git push
+
+
+echo #!/bin/bash > 4-listmorefiles
+echo ls -al >> 4-listmoreash
+ls -anl
