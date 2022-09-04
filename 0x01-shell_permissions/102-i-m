@@ -1,0 +1,6 @@
+#!/bf_only
+chmod +x 102-if_only
+
+git add .
+git commit in/bash
+chown --from=guillaume betty hello task 16
