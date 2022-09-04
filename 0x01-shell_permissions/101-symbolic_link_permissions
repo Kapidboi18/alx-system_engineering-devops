@@ -1,8 +1,2 @@
 #!/bin/bash
-chown  +x 100-change_owner_and_group
-
-git add .
-git commit -m "task 14"
-git push
-
 chown -h vincent:staff _hello
