@@ -1,3 +1,8 @@
 #!/bin/bash
-chmod ugo+x */
+cx 11-directories_permissions
 
+git add .
+git commit -m "task 11"
+git push
+
+mkdir -mhmod ugo+x */
