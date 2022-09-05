@@ -1,5 +1,5 @@
 #!/bin/bash
-su world
+echo 'hello, world'
 
 
 pwd 0-hello_world
