@@ -1,7 +1,2 @@
 #!/bin/bash
-echo 'hello, world'
-
-
-pwd 0-hello_world
-cd 0-hello_world
-echo / (ôo)'
+echo Hello, World
